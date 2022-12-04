@@ -5,4 +5,4 @@ This repository introduces the data sets created during research on recorded per
 
 Utz, Christian. 2022. “Form-Functional Ambivalence in Performance: The Third Movement of Beethoven’s ‘Hammerklavier’ Sonata in Recordings by Gulda, Brendel, and other Pianists.” *Music Theory & Analysis* 9, no. 2.
 
-
+Audio and video examples as well as an annotated score of the analyzed movement can be accessed at https://phaidra.kug.ac.at/o:127822.
